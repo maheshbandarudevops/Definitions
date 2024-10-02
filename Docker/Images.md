@@ -1,0 +1,2 @@
+A Docker image is a read-only template that contains the application and all of its dependencies. It is used to create Docker containers.
+Images are built from Dockerfiles and can be shared via Docker Hub or private registries
