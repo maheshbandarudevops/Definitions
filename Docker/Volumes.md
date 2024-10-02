@@ -1,0 +1,1 @@
+Volumes are used to persist data generated and used by Docker containers. This allows data to survive even when a container is stopped or deleted
